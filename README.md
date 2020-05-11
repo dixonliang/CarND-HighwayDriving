@@ -12,7 +12,7 @@ sudo chmod u+x {simulator_file_name}
 ```
 `mkdir build && cd build`
 
-<im<img src="./normal.JPG" alt="alt text" width=200 height=200>
+<img src="./normal.JPG" alt="alt text" width=200 height=200>
 
 ### Path (Speed and Acceleration)
 
